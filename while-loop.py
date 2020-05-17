@@ -1,10 +1,10 @@
-#! /usr/bin/python3
+#!/usr/bin/python
 # Python program using 'while loop' to calculate sum of integers
-print()
-print("This python program calculates the sum of all integers between 0 and the number you input")
-print()
+
+print("This python program calculates the sum of all integers between 0 and the number you input\n")
 
 num = int(input("Enter a positive integer: "))
+
 init_num = num
 sum = 0
 

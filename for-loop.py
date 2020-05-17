@@ -1,8 +1,7 @@
-#! /usr/bin/python3
+#!/usr/bin/python
 # Python program that counts the number of characters in a given string
 
-print("This python program counts the number of characters in a string")
-print()
+print("This python program counts the number of characters in a string\n")
 
 string = input("Enter a string: ")
 count = 0
