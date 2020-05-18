@@ -4,7 +4,6 @@
 print("This python program calculates the sum of all integers between 0 and the number you input\n")
 
 num = int(input("Enter a positive integer: "))
-
 init_num = num
 sum = 0
 
